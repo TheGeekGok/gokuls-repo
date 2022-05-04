@@ -1,0 +1,848 @@
+.name{
+	color: #5534A5;
+	font-size: 30px;
+	margin-left: 0px;
+}
+.support{
+	font-size: 20px;
+	margin-left:800px;
+	margin-top: -20px;
+}
+.num{
+	color: #FD5D5D;
+	font-size: 30px;
+	margin-left:960px;
+	margin-top: -48px;
+}
+.speak{
+	color: #FD5D5D ;
+	font-size: 20px;
+	margin-left:980px;
+	margin-top: -35px;
+}
+.title{
+	position: absolute;
+	background: #3A3845;
+	height: 60px;
+	width: 1210px;
+    margin-top: -10px;
+	}	
+.flights{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left:20px;
+	margin-top: 15px;
+	font-size: 30px;
+}
+.ticket{
+    position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 140px;
+	margin-top: 15px;
+	font-size: 30px;
+
+}
+.hotel{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 260px;
+	margin-top: 15px;
+	font-size: 30px;
+}
+.bus{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 380px;
+	margin-top: 15px;
+	font-size: 30px;
+}
+.car{
+    position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 470px;
+	margin-top: 15px;
+	font-size: 30px;
+}
+.about{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 570px;
+	margin-top: 15px;
+	font-size: 30px;
+}
+.mapping{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 700px;
+	margin-top: 15px;
+	font-size: 30px;
+}
+.mybooking{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 860px;
+	margin-top: 20px;
+	font-size: 25px;
+}
+.signin{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	margin-left: 1050px;
+	margin-top: 20px;
+	font-size: 25px;
+}
+.flightimage{	
+	width: 1210px;
+	height: 500px;
+	margin-left: 0px;
+	margin-top: 60px;	
+	filter: opacity(80%) blur(1px) contrast(30%);
+}
+.check{
+	position: absolute;
+	color: white;
+	font-size: 35px;
+	margin-top: -450px;
+	margin-left: 300px;
+}
+.call{
+	position: absolute;
+	color: white;
+	font-size: 35px;
+	margin-top: -350px;
+	margin-left: 100px;
+}
+.box1{
+	position: absolute;
+	border: 0px solid red;
+	background-color: #4D4C7D;
+	width: 1100px;
+	height: 150px;
+	margin-top: -200px;
+	margin-left: 50px;
+}
+.from1{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: -290px;
+	height: 30px;
+	border: none;
+	outline: none;
+}
+.to1{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: -100px;
+	height: 30px;
+	border: none;
+	outline: none;
+}
+.depart1{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 100px;
+	height: 30px;
+	width: 170px;
+	border: none;
+	outline: none;
+}
+.depart2{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 300px;
+	height: 30px;
+	width: 170px;
+	border: none;
+	outline: none;
+}
+.review{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 500px;
+	height: 30px;
+	width: 170px;
+	border: none;
+	outline: none;
+}
+.searchplane{
+	position: absolute;
+	margin-top: 125px;
+	margin-left: -120px;
+	height: 30px;
+	border: none;
+	outline: none;
+}
+.searchtickets{
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 180px;
+	height: 30px;
+	border: none;
+	outline: none;
+}
+.search1{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 680px;
+	height: 30px;
+	width: 100px;
+	
+    
+}
+.signinpic{
+	position: absolute;
+	margin-top: -355px;
+	margin-left: 670px;
+    font-size: 25px;
+    color: white;
+}
+.location1{
+	position: absolute;
+	margin-top: 55px;
+	margin-left: -150px;
+    font-size: 25px;
+}
+.location2{
+	position: absolute;
+	margin-top: 55px;
+	margin-left: 40px;
+    font-size: 25px;
+    
+}
+.suit1{
+	position: absolute;
+	margin-top: 55px;
+	margin-left: 240px;
+    font-size: 25px;
+}
+.suit2{
+	position: absolute;
+	margin-top: 55px;
+	margin-left: 440px;
+    font-size: 25px;
+}
+.searchforplane{
+	position: absolute;
+	margin-top: 120px;
+	margin-left: -290px;
+	border-bottom: 2x solid black;
+	border: none;
+	outline: none;
+	font-size: 15px;
+	height: 20px;
+
+}
+.page{
+	position: absolute;
+	border: 2px solid black;
+	background-color: white;
+	height: 500px;
+	width: 400px;
+	margin-left: 0px;
+    margin-top: 100px;
+}
+.search{
+	color: black;
+	margin-left: 0px;
+	font-size: 30px;
+}
+.radio{
+	margin-left: 50px;
+}
+.from{
+	margin-left: 50px;
+	font-size: 20px;
+}
+.select1{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.to{
+	margin-top: 10px;
+	margin-left: 50px;
+	font-size: 20px;
+}
+.select2{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.depart{
+	margin-top: 10px;
+	margin-left: 50px;
+	font-size: 20px;
+}
+.return{
+    margin-top: 10px;
+	margin-left: 50px;
+	font-size: 20px;
+}
+.select3{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.select4{
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.select5{
+	
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.select6{
+	
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.select7{
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.goadubai{
+	margin-top:-190px;
+}
+.brown{
+	position: absolute;
+	border: none;
+	background-color: lightgreen;
+	height: 450px;
+	width: 1210px;
+	margin-top: 0px;
+}
+.tic{
+	margin-left: 600px;
+}
+.text{
+	width: 200px;
+	height: 20px;
+}
+.place1{
+	font-size: 20px;
+	margin-top: 30px;
+}
+.search{
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 200px;
+	margin-top: -20px;
+	color: black;
+}
+.mtd{
+	font-size: 20px;
+	margin-left: 500px;
+}
+.submit{
+	position: absolute;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.place2{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -250px;
+	margin-left: 400px;
+}
+.search2{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 600px;
+	margin-top: -250px;
+}
+.place3{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -195px;
+	margin-left: 400px;
+}
+.search3{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 600px;
+	margin-top: -195px;
+}
+.place4{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -135px;
+	margin-left: 400px;
+}
+.search4{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 600px;
+	margin-top: -135px;
+}
+.place5{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -80px;
+	margin-left: 400px;
+}
+.search5{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 600px;
+	margin-top: -80px;
+}
+.place6{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -20px;
+	margin-left: 400px;
+}
+.search6{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 600px;
+	margin-top: -20px;
+}
+.place7{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -250px;
+	margin-left: 800px;
+}
+.search7{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 1000px;
+	margin-top: -250px;
+}
+.place8{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -195px;
+	margin-left: 800px;
+}
+.search8{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 1000px;
+	margin-top: -195px;
+}
+.place9{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -135px;
+	margin-left: 800px;
+}
+.search9{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 1000px;
+	margin-top: -135px;
+}
+.place10{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -80px;
+	margin-left: 800px;
+}
+.search10{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 1000px;
+	margin-top: -80px;
+}
+.place11{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -20px;
+	margin-left: 800px;
+
+}
+.search11{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	width: 80px;
+	height: 20px;
+	margin-left: 1000px;
+	margin-top: -20px;
+}
+.box3{
+	position: absolute;
+	border:0px solid black;
+	background-color: lightgray;
+	width: 1210px;
+    height: 700px;
+    margin-top: 450px;
+}
+.hotels{
+	font-size: 30px;
+	margin-left: 600px;
+	margin-top: 100px;
+}
+.pic{
+	position: absolute;
+	width: 100%;
+	height: 500px;
+	margin-top: 50px;
+	margin-left: -715px;
+}
+.find{
+	position: absolute;
+	font-size: 25px;
+	margin-top: 550px;
+}
+.hotelsname{
+	position: absolute;
+	border: none;
+	outline: none;
+	font-size: 25px;
+	margin-top: 630px;
+	margin-left: -600px;
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+}
+.location{
+	position: absolute;
+	border: none;
+	outline: none;
+	font-size: 20px;
+	margin-top: 630px;
+	margin-left: -200px;
+	width: 300px;
+	height: 40px;
+
+}
+.hotelbutton{
+	position: absolute;
+	font-size: 15px;
+	margin-top: 630px;
+	margin-left: 200px;
+	width: 100px;
+	height: 40px;
+
+}
+.box4{
+	position: absolute;
+	border:0px solid black;
+	background-color: lightgreen;
+	width: 1210px;
+    height: 760px;
+    margin-top: 1150px;
+}
+.busroute{
+	font-size: 30px;
+	margin-left: 600px;
+	margin-top: 40px;
+}
+.hillpic{
+	position: absolute;
+	width: 100%;
+	height: 600px;
+	margin-top: 0px;
+	margin-left: 0px;
+	z-index: ;
+	
+}
+.busfrom{
+    position: absolute;
+	font-size: 20px;
+	margin-top: 800px;
+	margin-left: -700px;
+}
+/*.table{
+	position: absolute;
+	border: 2px solid black;
+	font-size: 15px;
+	background-color: white;
+	width: 1333px;
+	height: 50px;
+	margin-top: 100px;
+}*/
+.text1{
+	position: absolute;
+	border: none;
+	outline: none;
+	margin-top: 300px;
+	margin-left: 10px;
+	width: 360px;
+	height: 40px;
+	font-size: 20px;
+}
+.text2{
+	position: absolute;
+	border: none;
+	outline: none;
+	margin-top: 300px;
+	margin-left: 370px;
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+}
+.text3{
+	position: absolute;
+	border: none;
+	outline: none;
+	margin-top: 300px;
+	margin-left: 675px;
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+}
+.arrow{
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 320px;
+	width: 300px;
+	height: 40px;
+	font-size: 40px;
+
+}
+.line{
+	position: absolute;
+	background-color: black;
+	width: 4px;
+	height: 42px;
+	font-size: 40px;
+    margin-top: 300px;
+	margin-left: 671px;
+}
+.bussearch{
+	position: absolute;
+	border: none;
+	outline: none;
+	background-color: red;
+	width: 220px;
+	height: 44px;
+	font-size: 30px;
+    margin-top: 299px;
+	margin-left: 980px;
+}
+.box5{
+	position: absolute;
+	margin-top: 1910px;
+	margin-left: 0px;
+    width: 1210px;
+    height: 800px;
+    background-color: lightgray;
+}
+.car1{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 0px;
+    width: 1210px;
+    height: 600px;
+}
+.carroute{
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 650px;
+    font-size: 25px;
+    text-align: center;
+
+}
+.insidebox{
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 100px;
+	width: 700px;
+	height: 400px;
+	background-color: blue;
+	border: 2px solid blue;
+}
+.cheapcar{
+	position: absolute;
+	font-size: 35px;
+	margin-left: 150px;
+	color: white;
+}
+.pickup{
+	position: absolute;
+	margin-left: 20px;
+	font-size: 30px;
+	margin-top: 100px;
+	color: white;
+}
+.textcar1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 20px;
+    font-size: 20px;
+    width: 500px;
+    height: 40px;
+}
+.pickupdate{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    font-size: 30px;
+    width: 500px;
+    height: 40px;
+    color: white;	
+}
+.dropofdate{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 360px;
+    font-size: 30px;
+    width: 500px;
+    height: 40px;
+    color: white;	
+}
+.t1{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 20px;
+    width: 150px;
+    height: 25px;	
+}
+.t2{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 180px;
+    width: 150px;
+    height: 25px;	
+}
+.t3{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 360px;
+    width: 150px;
+    height: 25px;	
+}
+.t4{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 520px;
+    width: 150px;
+    height: 25px;	
+}
+.searchcar{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 20px;
+    width: 100px;
+    height: 25px;
+    color: white;
+    background-color: red;
+    border: none;
+    outline: none;	
+}
+.box6{
+	position: absolute;
+	margin-top: 2700px;
+	margin-left: 0px;
+    width: 1210px;
+    height: 600px;
+    background-color:black;
+}
+.aboutus6{
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 600px;
+	font-size: 30px;
+	color: white;
+}
+.products{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 50px;
+	color: white;
+	font-size: 20px;
+}
+.row1{
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 80px;
+	color: white;
+	font-size: 20px;
+}
+.company{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 350px;
+	color: white;
+	font-size: 20px;
+}
+.row2{
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 380px;
+	color: white;
+	font-size: 20px;
+}
+.aboutsite{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 650px;
+	color: white;
+	font-size: 20px;
+}
+.row3{
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 680px;
+	color: white;
+	font-size: 20px;
+}
+.popular{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 950px;
+	color: white;
+	font-size: 20px;
+}
+.row4{
+	position: absolute;
+	margin-top: 150px;
+	margin-left: 980px;
+	color: white;
+	font-size: 20px;
+}
+.box7{
+	position: absolute;
+	width: 100%;
+	height: 200px;
+	margin-top: 3300px;
+}
+.map{
+	position: absolute;
+	margin-top: 10px;
+	width: 1210px;
+}
